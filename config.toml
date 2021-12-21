@@ -183,7 +183,7 @@ dateFormatToUse = "2006-01-02"
   [params.social]
     Email = "alan.gui@foxmail.com"
     #Skype = "live:844327696"
-    GitHub = "ZhaoGui"  
+    GitHub = "/ZhaoGui"  
     bilibili = "82390459"
     
     #Linkedin = "xxxx"
